@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Open-Source Portal
+title: Open-Source Portal
 ---
 
 # [](#header-1)Open your source, Open your mind!
