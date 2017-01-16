@@ -3,6 +3,6 @@ layout: default
 title: Open-Source Portal
 ---
 
-## Open your source, Open your mind1!
+# [](#header-1)Open your source, Open your mind!
 
 Cool stuff is on the way, stay tuned!
